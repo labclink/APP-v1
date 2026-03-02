@@ -7,7 +7,7 @@ function App() {
       <header className="header">
         <div className="header-content">
           <div className="logo">
-            <span className="logo-text">Innovatech</span>
+            <span className="logo-text">Linko</span>
           </div>
           <nav className="nav">
             <a href="#soluciones">Soluciones</a>
